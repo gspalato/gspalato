@@ -1,7 +1,7 @@
 # <div align="center">Hello, I'm Gabriel! 👋</div>
 ### <div align="center">An aspiring developer, C# lover.</div>
 
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=oubhvljhzyudfbxyx20opzxhq&cover_image=true&theme=default" style="margin-left: 10px;"/>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=oubhvljhzyudfbxyx20opzxhq&cover_image=true&theme=default" width="300" style="margin-left: 10px;"/>
 
  🖥️ Working on my _flawless_ discord bot: Spade.
  
