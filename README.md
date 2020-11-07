@@ -2,7 +2,7 @@
 ### <div align="center">An aspiring developer, C# lover.</div>
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=oubhvljhzyudfbxyx20opzxhq&cover_image=true&theme=default" style="margin-left: 10px;"/>
-
+&nbsp;
  🖥️ Working on my _flawless_ discord bot: Spade.
  
  ⚙️ Daily user of C#.
