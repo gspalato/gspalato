@@ -1,5 +1,5 @@
 # <div align="center">Hello, I'm Gabriel! 👋</div>
-### <div align="center">An aspiring developer, C# lover.</div>
+### <div align="center">An aspiring developer, C# lover.&nbsp;</div>
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=oubhvljhzyudfbxyx20opzxhq&cover_image=true&theme=default" style="margin-left: 10px;"/>
 
