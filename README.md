@@ -15,7 +15,7 @@
 
  🧪 Experienced with MongoDB, Blazor, Node, React, etc.
 
- ❌ Master of unintentionally reverting hours of work with git.
+ ◀️ Master of unintentionally reverting hours of work with git.
 
  🌎 Born and living in Brazil.
  
