@@ -20,9 +20,11 @@
  🌎 Born and living in Brazil.
  
 <div align="center" style="margin-top:25px;">
+	<!--
 	<a href="https://github.com/gspalato">
 		<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 	</a>
+	-->
 	<a href="https://twitter.com/gspalato">
 		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 	</a>
@@ -30,3 +32,7 @@
 		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 	</a>
 </div>
+
+<!--
+	wow, you're trying to steal me or are you an easter egg hunter?
+-->
