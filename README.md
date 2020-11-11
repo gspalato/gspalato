@@ -31,7 +31,7 @@
 	<a href="https://www.instagram.com/gabriel.spalato">
 		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 	</a>
-	<img src="https://komarev.com/ghpvc/?username=gspalato&style=for-the-badge" style="margin-bottom: 5px;" />
+	<img src="https://komarev.com/ghpvc/?username=gspalato&style=flat-square" style="margin-bottom: 5px;" />
 </div>
 
 <!--
