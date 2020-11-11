@@ -13,7 +13,7 @@
 
  📃 Started my programming journey at 7 years old with Batch.
 
- 🧪 Experienced with MongoDB, Blazor, Node, React, etc.
+ 🧪 Has experience with MongoDB, Blazor, Node, React, etc.
 
  ◀️ Master of unintentionally reverting hours of work with git.
 
