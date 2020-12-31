@@ -7,8 +7,6 @@
  
  ⚙️ Daily user of C#.
 
- 🎒 Currently on 10<sup><small>th</small></sup> grade.
-
  🎨 Eager pseudo-designer on Adobe XD.
 
  📃 Started my programming journey at 7 years old with Batch.
