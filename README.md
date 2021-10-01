@@ -1,7 +1,8 @@
 # <div align="center">Hello, I'm Gabriel! 👋</div>
-### <div align="center">An aspiring developer, C# lover.&nbsp;</div>
+#### <div align="center">An aspiring developer and current student.&nbsp;</div>
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=m0jz86ynx7i5jw05vu4la15hc&cover_image=true&theme=compact" width="265" style="margin-left: 10px;"/>
+<pre>&nbsp;</pre>
 
  🖥️ Working on [Wonders](https://github.com/wondersorg/wonders), an Electron-based widget platform.
  
