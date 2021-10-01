@@ -3,15 +3,15 @@
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=m0jz86ynx7i5jw05vu4la15hc&cover_image=true&theme=compact" width="265" style="margin-left: 10px;"/>
 
- 🖥️ Working on my _flawless_ discord bot: Spade.
+ 🖥️ Working on [Wonders](https://github.com/wondersorg/wonders), an Electron-based widget platform.
  
- ⚙️ Daily user of C#.
+ ⚙️ My favorite languages are C# and TypeScript.
 
- 🎨 Eager pseudo-designer on Adobe XD.
+ 🎨 Intermediate Photoshop user.
 
  📃 Started my programming journey at 7 years old with Batch.
 
- 🧪 Has experience with MongoDB, Blazor, Node, React, etc.
+ 🧪 I have some experience with MongoDB, Blazor, Node, React, etc.
 
  ◀️ Master of unintentionally reverting hours of work with git.
 
