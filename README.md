@@ -18,13 +18,18 @@
  🌎 Born and living in Brazil.
  
 <div align="center" style="margin-top:25px;">
+	<a href="https://discord.com/users/341377366079045632">
+		<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://open.spotify.com/user/m0jz86ynx7i5jw05vu4la15hc">
+		<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="margin-bottom: 5px;" />
+	</a>
 	<a href="https://twitter.com/gspalato">
-		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+		<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 	</a>
-	<a href="https://www.instagram.com/gabriel.spalato">
-		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+	<a href="https://www.instagram.com/gabrielspalato">
+		<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 	</a>
-	<!--<img src="https://komarev.com/ghpvc/?username=gspalato&style=flat-square" style="margin-bottom: 5px;" />-->
 </div>
 
 <!--
