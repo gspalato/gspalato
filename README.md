@@ -1,4 +1,4 @@
-# <div align="center">Hello, I'm Gabriel! 👋</div>
+# <div align="center">Hello, I'm <a href="https://spalato.bio.link/">Gabriel</a>! 👋</div>
 #### <div align="center">An aspiring developer and current student.&nbsp;</div>
 </br>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=m0jz86ynx7i5jw05vu4la15hc&cover_image=true&theme=compact" width="265" style="margin-left: 10px;"/>
