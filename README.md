@@ -1,7 +1,7 @@
 # <div align="center">Hello, I'm <a href="https://spalato.bio.link/">Gabriel</a>! 👋</div>
 #### <div align="center">An aspiring developer and current student.&nbsp;</div>
 </br>
-<img align="right" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000950.8077ca46d16142f0a2f04dc1c44167a7.1443" width="265" style="margin-left: 10px;"/>
+<!-- <img align="right" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000950.8077ca46d16142f0a2f04dc1c44167a7.1443" width="265" style="margin-left: 10px;"/> -->
 
  🖥️ Working on [Foundation](https://github.com/gspalato/foundation), a microservice back-end/platform to deploy my projects.
  
