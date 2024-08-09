@@ -3,17 +3,15 @@
 </br>
 <!-- <img align="right" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000950.8077ca46d16142f0a2f04dc1c44167a7.1443" width="265" style="margin-left: 10px;"/> -->
 
- 🖥️ Working on [Foundation](https://github.com/gspalato/foundation), a microservice back-end/platform to deploy my projects.
+ 🖥️ Working on [Project Oni](https://github.com/theoniorg/services), a 
  
- ⚙️ My favorite languages are C# and TypeScript.
+ ⚙️ My favorite languages are Go and TypeScript.
 
  🎨 Intermediate Photoshop user.
 
  📃 Started my programming journey at 7 years old with Batch.
 
- 🧪 I have some experience with MongoDB, Blazor, Node, React, etc.
-
- ◀️ Master of unintentionally reverting hours of work with git.
+ 🧪 Experienced with Next.js, React, React Native, Go, C#, MongoDB, TypeScript, and more.
 
  🌎 Born and living in Brazil.
  
