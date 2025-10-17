@@ -3,13 +3,13 @@
 </br>
 <!-- <img align="right" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000950.8077ca46d16142f0a2f04dc1c44167a7.1443" width="265" style="margin-left: 10px;"/> -->
 
- 🖥️ Working on [Project Oni](https://github.com/theoniorg/services), an in-development chat platform!
+ 🖥️ Working on [Vigil], a health app and map for disease outbreaks!
  
- ⚙️ My favorite languages are Go and TypeScript.
+ ⚙️ Studying Computer Engineering at UNISO.
 
- 🎨 Intermediate Photoshop user.
+ 🎨 I've done some graphic design jobs.
 
- 📃 Started my programming journey at 7 years old with Batch.
+ 📃 Started programming at 7 years old.
 
  🧪 Experienced with Next.js, React, React Native, Go, C#, MongoDB, TypeScript, and more.
 
